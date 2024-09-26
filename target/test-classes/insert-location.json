@@ -1,0 +1,35 @@
+{
+	"name": "Pickleball Backyard",
+	"venueType": "Indoor Training Facility",
+	"streetAddress": "898 N Gilbert Road",
+	"city": "Gilbert",
+	"state": "AZ",
+	"zip": "85234"
+}
+
+{
+	"name": "Picklemall",
+	"venueType": "Indoor Training Facility",
+	"streetAddress": "1200 Rural Road",
+	"city": "Tempe",
+	"state": "AZ",
+	"zip": "85424"
+}
+
+{
+	"name": "Boise Pickle",
+	"venueType": "Outdoor Public Courts",
+	"streetAddress": "4532 E Pickle Street",
+	"city": "Boise",
+	"state": "ID",
+	"zip": "83701"
+}
+
+{
+	"name": "Waitlist",
+	"venueType": "",
+	"streetAddress": "",
+	"city": "",
+	"state": "",
+	"zip": ""
+}

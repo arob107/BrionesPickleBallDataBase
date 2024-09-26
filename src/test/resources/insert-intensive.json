@@ -1,0 +1,23 @@
+{
+	"status": "Confirmed",
+	"startDate": "Nov 19 2024",
+	"duration": "5-day"
+}
+
+{
+	"status": "Confirmed",
+	"startDate": "Dec 10 2024",
+	"duration": "5-day"
+}
+
+{
+	"status": "Tentative",
+	"startDate": "Jan 20 2025",
+	"duration": "2-day"
+}
+
+{
+	"status": "Waitlist",
+	"startDate": "Waitlist",
+	"duration": "Waitlist"
+}

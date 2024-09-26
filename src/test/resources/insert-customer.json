@@ -1,0 +1,32 @@
+{
+	"firstName": "Benny",
+	"lastName": "Rogers",
+	"dupr": 3.5,
+	"paymentStatus": "Paid",
+	"footageStatus": "Reviewed",
+	"intensiveStatus": "Confirmed",
+	"phone": "(208) 529-9725",
+	"email": "benny.rogers@aol.com"
+}
+
+{
+	"firstName": "Paul",
+	"lastName": "Walker",
+	"dupr": 4.5,
+	"paymentStatus": "Invoiced",
+	"footageStatus": "Reviewed",
+	"intensiveStatus": "Confirmed",
+	"phone": "(480) 324-4357",
+	"email": "racerpaul@gmail.com"
+}
+
+{
+	"firstName": "Susan",
+	"lastName": "Wells",
+	"dupr": 3.25,
+	"paymentStatus": "Not yet invoivced",
+	"footageStatus": "Waiting for footage",
+	"intensiveStatus": "Waitlist",
+	"phone": "(505) 232-4281",
+	"email": "suuuuusan@yahoo.com"
+}
